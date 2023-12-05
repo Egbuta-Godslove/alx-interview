@@ -1,4 +1,5 @@
 #!/usr/bin/node
+
 /* Prints all Casts of Star Wars movie
 Read the README.md file for more info
 */
